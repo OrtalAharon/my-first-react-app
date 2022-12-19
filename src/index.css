@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fruit-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.fruits-cards {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+
+}
+
+.fruit-card {
+  width: 100px;
+  height: 100px;
+  border: 5px solid black;
+}
+
+
